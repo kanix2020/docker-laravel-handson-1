@@ -1,0 +1,19 @@
+{
+  "name": "docker-laravel-handson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ucan-lab/docker-laravel-handson.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ucan-lab/docker-laravel-handson/issues"
+  },
+  "homepage": "https://github.com/ucan-lab/docker-laravel-handson#readme"
+}
